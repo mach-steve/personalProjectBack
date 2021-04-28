@@ -1,1 +1,1 @@
-web: gunicorn users.wsgi
+web: gunicorn personal-project-back.wsgi
